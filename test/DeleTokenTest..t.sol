@@ -66,4 +66,3 @@ contract DeleTokenTest is Test {
         assertEq(deletoken.balanceOf(receiver), amount);
     }
 }
-////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
